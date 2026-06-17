@@ -4,4 +4,5 @@ Redirects the GitHub Pages account root to the SailAway Welcome page:
 
 https://tommiec25.github.io/Sailing/
 
-The custom 404 page also redirects invalid account-root paths to SailAway.
+Only the bare account root redirects. Invalid paths are left alone so other
+project sites can resolve normally or show their own GitHub Pages result.
